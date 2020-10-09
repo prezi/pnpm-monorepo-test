@@ -1,0 +1,52 @@
+{
+  "name": "package_39",
+  "version": "0.1.318",
+  "dependencies": {
+    "package_9": "../package_9"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.10.5",
+    "@babel/core": "7.11.0",
+    "@babel/plugin-transform-modules-commonjs": "7.10.4",
+    "@babel/preset-react": "7.10.4",
+    "@babel/preset-typescript": "7.10.4",
+    "@lingui/babel-preset-react": "2.9.1",
+    "@types/chai": "4.2.0",
+    "@types/enzyme": "3.10.5",
+    "@types/enzyme-adapter-react-16": "1.0.6",
+    "@types/jest": "26.0.10",
+    "@types/react": "16.9.20",
+    "@types/react-dom": "16.9.5",
+    "@types/react-test-renderer": "16.9.2",
+    "@types/sinon": "9.0.4",
+    "babel-jest": "26.1.0",
+    "babel-loader": "8.1.0",
+    "babel-plugin-macros": "2.8.0",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "chai": "4.2.0",
+    "css-loader": "3.2.0",
+    "enzyme": "3.11.0",
+    "enzyme-adapter-react-16": "1.15.2",
+    "fork-ts-checker-webpack-plugin": "4.1.6",
+    "jest": "26.4.1",
+    "less": "3.12.2",
+    "less-loader": "5.0.0",
+    "npm-run-all": "4.1.5",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-test-renderer": "16.13.1",
+    "sinon": "9.0.2",
+    "style-loader": "1.2.1",
+    "typescript": "3.8.3",
+    "webpack": "4.44.0",
+    "webpack-bundle-tracker": "0.2.1",
+    "webpack-cli": "3.3.12",
+    "webpack-dev-server": "3.11.0",
+    "webpack-notifier": "1.8.0"
+  },
+  "peerDependencies": {
+    "@types/react": "16.9.20",
+    "react": "16.12.0"
+  },
+  "scripts": {}
+}

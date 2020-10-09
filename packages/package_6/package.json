@@ -1,0 +1,28 @@
+{
+  "name": "package_6",
+  "version": "0.1.133",
+  "dependencies": {
+    "package_15": "../package_15",
+    "es6-shim": "0.35.5"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.10.5",
+    "@babel/core": "7.11.0",
+    "@babel/plugin-transform-modules-commonjs": "7.10.4",
+    "@babel/preset-react": "7.10.4",
+    "@babel/preset-typescript": "7.10.4",
+    "@types/node": "13.11.0",
+    "@types/react": "16.9.20",
+    "@types/react-dom": "16.9.5",
+    "babel-plugin-macros": "2.8.0",
+    "npm-run-all": "4.1.5",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "typescript": "3.8.3"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "scripts": {}
+}

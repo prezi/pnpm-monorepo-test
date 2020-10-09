@@ -1,0 +1,22 @@
+{
+  "name": "package_28",
+  "version": "0.1.96",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jest": "26.0.10",
+    "@types/react": "16.9.20",
+    "@types/react-dom": "16.9.5",
+    "@types/react-test-renderer": "16.9.2",
+    "jest": "26.4.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-test-renderer": "16.13.1",
+    "ts-jest": "26.2.0",
+    "typescript": "3.8.3"
+  },
+  "peerDependencies": {
+    "react": "16.12.0",
+    "react-dom": "16.12.0"
+  },
+  "scripts": {}
+}

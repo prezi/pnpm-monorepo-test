@@ -1,0 +1,17 @@
+{
+    "lerna": "3.0.0",
+    "packages": [
+        "packages/*"
+    ],
+    "version": "independent",
+    "command": {
+        "publish": {
+            "ignoreChanges": [
+                "**/package-lock.json",
+                "**/*.md",
+                "**/*.sh"
+            ],
+            "bump": "patch"
+        }
+    }
+}
