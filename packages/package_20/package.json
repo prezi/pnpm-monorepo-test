@@ -4,9 +4,9 @@
   "dependencies": {
     "@lingui/core": "2.9.1",
     "@lingui/react": "2.9.1",
-    "package_9": "../package_9",
-    "package_15": "../package_15",
-    "package_44": "../package_44",
+    "package_9": "link:../package_9",
+    "package_15": "link:../package_15",
+    "package_44": "link:../package_44",
     "@sentry/browser": "5.20.1",
     "d3": "3.5.14",
     "envify": "4.1.0",

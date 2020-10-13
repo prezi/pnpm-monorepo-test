@@ -3,7 +3,7 @@
   "version": "1.0.32",
   "dependencies": {
     "@popperjs/core": "2.4.2",
-    "package_11": "../package_11",
+    "package_11": "link:../package_11",
     "react-dropzone": "11.0.1",
     "react-popper": "2.2.3",
     "styled-normalize": "8.0.7"

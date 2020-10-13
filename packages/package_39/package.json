@@ -2,7 +2,7 @@
   "name": "package_39",
   "version": "0.1.318",
   "dependencies": {
-    "package_9": "../package_9"
+    "package_9": "link:../package_9"
   },
   "devDependencies": {
     "@babel/cli": "7.10.5",

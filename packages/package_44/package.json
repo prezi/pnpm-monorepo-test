@@ -3,9 +3,9 @@
   "version": "0.1.289",
   "dependencies": {
     "@babel/polyfill": "7.8.7",
-    "package_6": "../package_6",
-    "package_9": "../package_9",
-    "package_15": "../package_15",
+    "package_6": "link:../package_6",
+    "package_9": "link:../package_9",
+    "package_15": "link:../package_15",
     "@sentry/types": "5.20.1",
     "classnames": "2.2.6",
     "es-cookie": "1.3.2",

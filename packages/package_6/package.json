@@ -2,7 +2,7 @@
   "name": "package_6",
   "version": "0.1.133",
   "dependencies": {
-    "package_15": "../package_15",
+    "package_15": "link:../package_15",
     "es6-shim": "0.35.5"
   },
   "devDependencies": {

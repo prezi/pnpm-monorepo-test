@@ -4,8 +4,8 @@
   "dependencies": {
     "@lingui/core": "2.9.1",
     "@lingui/react": "2.9.1",
-    "package_9": "../package_9",
-    "package_15": "../package_15",
+    "package_9": "link:../package_9",
+    "package_15": "link:../package_15",
     "js-cookie": "2.2.1",
     "react": "16.12.0",
     "react-dom": "16.12.0",

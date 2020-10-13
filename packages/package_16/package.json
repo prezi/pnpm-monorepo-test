@@ -2,7 +2,7 @@
   "name": "package_16",
   "version": "0.0.27",
   "dependencies": {
-    "package_17": "../package_17",
+    "package_17": "link:../package_17",
     "deepmerge": "4.2.2",
     "front-matter": "3.1.0",
     "js-cookie": "2.2.1",

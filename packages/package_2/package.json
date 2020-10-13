@@ -2,9 +2,9 @@
   "name": "package_2",
   "version": "0.1.230",
   "dependencies": {
-    "package_9": "../package_9",
-    "package_10": "../package_10",
-    "package_15": "../package_15",
+    "package_9": "link:../package_9",
+    "package_10": "link:../package_10",
+    "package_15": "link:../package_15",
     "@reduxjs/toolkit": "1.4.0",
     "axios": "0.19.2",
     "js-cookie": "2.2.1",

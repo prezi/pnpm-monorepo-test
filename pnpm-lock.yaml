@@ -206,7 +206,7 @@ importers:
       jest-styled-components: 7.0.2
       js-cookie: 2.2.1
       npm-run-all: 4.1.5
-      package_15: ../package_15
+      package_15: 'link:../package_15'
       react: 16.12.0
       react-dom: 16.12.0
       request: 2.88.2
@@ -318,7 +318,7 @@ importers:
       js-cookie: 2.2.1
       lazysizes: 5.2.2
       npm-run-all: 4.1.5
-      package_15: ../package_15
+      package_15: 'link:../package_15'
       react: 16.12.0
       react-dom: 16.12.0
       react-horizontal-scrolling-menu: 0.7.7
@@ -568,16 +568,16 @@ importers:
       less-loader: 5.0.0
       moment: 2.25.3
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_14: ../package_14
-      package_15: ../package_15
-      package_17: ../package_17
-      package_22: ../package_22
-      package_26: ../package_26
-      package_33: ../package_33
-      package_34: ../package_34
-      package_6: ../package_6
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_14: 'link:../package_14'
+      package_15: 'link:../package_15'
+      package_17: 'link:../package_17'
+      package_22: 'link:../package_22'
+      package_26: 'link:../package_26'
+      package_33: 'link:../package_33'
+      package_34: 'link:../package_34'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       patch-package: 6.2.0
       ramda: 0.26.1
       react: 16.12.0
@@ -705,11 +705,11 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_44: ../package_44
-      package_6: ../package_6
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_44: 'link:../package_44'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       style-loader: 1.2.1
@@ -800,10 +800,10 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_26: ../package_26
-      package_6: ../package_6
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_26: 'link:../package_26'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-bootstrap: 0.32.4
       react-dom: 16.12.0
@@ -938,7 +938,7 @@ importers:
       jsdom: 16.4.0
       markdown-it: 10.0.0
       npm-run-all: 4.1.5
-      package_17: ../package_17
+      package_17: 'link:../package_17'
       sinon: 9.0.2
       typescript: 3.8.3
       webpack: 4.44.0
@@ -1111,11 +1111,11 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_1: ../package_1
-      package_10: ../package_10
-      package_15: ../package_15
-      package_19: ../package_19
-      package_9: ../package_9
+      package_1: 'link:../package_1'
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_19: 'link:../package_19'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       regenerator-runtime: 0.13.7
@@ -1228,9 +1228,9 @@ importers:
       jest-styled-components: 7.0.2
       less: 3.12.2
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-docgen-typescript-loader: 3.7.1
       react-dom: 16.12.0
@@ -1331,9 +1331,9 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       react-redux: 7.2.1
@@ -1479,9 +1479,9 @@ importers:
       less-loader: 5.0.0
       mocha: 6.2.0
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_44: ../package_44
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_44: 'link:../package_44'
+      package_9: 'link:../package_9'
       pubsub-js: 1.5.2
       react: 16.12.0
       react-bootstrap: ^0.32.1
@@ -1582,8 +1582,8 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       style-loader: 1.2.1
@@ -1753,9 +1753,9 @@ importers:
       jest-styled-components: 7.0.2
       js-cookie: 2.2.1
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       react-hook-form: 5.7.2
@@ -1864,9 +1864,9 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_36: ../package_36
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_36: 'link:../package_36'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       style-loader: 1.2.1
@@ -1938,7 +1938,7 @@ importers:
       enzyme-adapter-react-16: 1.15.2
       jest: 26.4.1
       js-cookie: 2.2.1
-      package_10: ../package_10
+      package_10: 'link:../package_10'
       react: 16.12.0
       react-css-transition-replace: 2.2.1
       react-dom: 16.12.0
@@ -2054,10 +2054,10 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_22: ../package_22
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_22: 'link:../package_22'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       style-loader: 1.2.1
@@ -2209,10 +2209,10 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_6: ../package_6
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       polished: 3.6.5
       react: 16.12.0
       react-dom: 16.12.0
@@ -2364,14 +2364,14 @@ importers:
       js-cookie: 2.2.1
       less: 3.12.2
       less-loader: 5.0.0
-      package_10: ../package_10
-      package_15: ../package_15
-      package_17: ../package_17
-      package_21: ../package_21
-      package_22: ../package_22
-      package_41: ../package_41
-      package_44: ../package_44
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_17: 'link:../package_17'
+      package_21: 'link:../package_21'
+      package_22: 'link:../package_22'
+      package_41: 'link:../package_41'
+      package_44: 'link:../package_44'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-bootstrap: 0.32.4
       react-dnd: 9.3.4
@@ -2548,12 +2548,12 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_29: ../package_29
-      package_34: ../package_34
-      package_6: ../package_6
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_29: 'link:../package_29'
+      package_34: 'link:../package_34'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       polished: 3.6.5
       react: 16.12.0
       react-dom: 16.12.0
@@ -2667,9 +2667,9 @@ importers:
       less-loader: 5.0.0
       mocha: 6.2.0
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_28: ../package_28
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_28: 'link:../package_28'
+      package_9: 'link:../package_9'
       prop-types: 15.7.2
       proxyquire: 1.8.0
       raven-js: 3.27.2
@@ -2799,10 +2799,10 @@ importers:
       jest-styled-components: 7.0.2
       js-cookie: 2.2.1
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_26: ../package_26
-      package_6: ../package_6
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_26: 'link:../package_26'
+      package_6: 'link:../package_6'
       ramda: 0.27.1
       react: 16.12.0
       react-dom: 16.12.0
@@ -2944,8 +2944,8 @@ importers:
       moment: 2.25.3
       nock: 12.0.3
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-bootstrap: 0.32.1
       react-dom: 16.12.0
@@ -3078,11 +3078,11 @@ importers:
       jest-styled-components: 7.0.2
       js-cookie: 2.2.1
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_29: ../package_29
-      package_6: ../package_6
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_29: 'link:../package_29'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       react-transition-group: 4.4.1
@@ -3228,7 +3228,7 @@ importers:
       jest-styled-components: 7.0.2
       js-cookie: 2.2.1
       npm-run-all: 4.1.5
-      package_15: ../package_15
+      package_15: 'link:../package_15'
       react: 16.12.0
       react-dom: 16.12.0
       styled-components: 5.1.1
@@ -3322,9 +3322,9 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_36: ../package_36
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_36: 'link:../package_36'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       style-loader: 1.2.1
@@ -3462,9 +3462,9 @@ importers:
       json-parse-even-better-errors: 2.3.1
       moment: 2.25.3
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       react-hook-form: 5.7.2
@@ -3554,7 +3554,7 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_9: ../package_9
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       react-test-renderer: 16.13.1
@@ -3714,10 +3714,10 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_6: ../package_6
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-dom: 16.12.0
       style-loader: 1.2.1
@@ -3805,7 +3805,7 @@ importers:
       mock-local-storage: 1.1.11
       network-information-types: 0.1.0
       npm-run-all: 4.1.5
-      package_15: ../package_15
+      package_15: 'link:../package_15'
       react: 16.12.0
       react-dom: 16.12.0
       style-loader: 1.2.1
@@ -3948,14 +3948,14 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_1: ../package_1
-      package_10: ../package_10
-      package_15: ../package_15
-      package_19: ../package_19
-      package_41: ../package_41
-      package_44: ../package_44
-      package_6: ../package_6
-      package_9: ../package_9
+      package_1: 'link:../package_1'
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_19: 'link:../package_19'
+      package_41: 'link:../package_41'
+      package_44: 'link:../package_44'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-addons-test-utils: 15.6.2
       react-dom: 16.12.0
@@ -4139,14 +4139,14 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_11: ../package_11
-      package_15: ../package_15
-      package_19: ../package_19
-      package_22: ../package_22
-      package_44: ../package_44
-      package_6: ../package_6
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_11: 'link:../package_11'
+      package_15: 'link:../package_15'
+      package_19: 'link:../package_19'
+      package_22: 'link:../package_22'
+      package_44: 'link:../package_44'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       query-string: 5.1.1
       react: 16.12.0
       react-dom: 16.12.0
@@ -4282,9 +4282,9 @@ importers:
       jest: 26.4.1
       jest-styled-components: 7.0.2
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_6: ../package_6
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-addons-css-transition-group: 15.6.2
       react-docgen-typescript-loader: 3.7.1
@@ -4429,15 +4429,15 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_19: ../package_19
-      package_44: ../package_44
-      package_46: ../package_46
-      package_47: ../package_47
-      package_5: ../package_5
-      package_6: ../package_6
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_19: 'link:../package_19'
+      package_44: 'link:../package_44'
+      package_46: 'link:../package_46'
+      package_47: 'link:../package_47'
+      package_5: 'link:../package_5'
+      package_6: 'link:../package_6'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-addons-css-transition-group: 15.6.2
       react-addons-test-utils: 15.6.2
@@ -4587,9 +4587,9 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_44: ../package_44
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_44: 'link:../package_44'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-addons-css-transition-group: 15.6.2
       react-addons-test-utils: 15.6.2
@@ -4713,9 +4713,9 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_15: ../package_15
-      package_5: ../package_5
-      package_9: ../package_9
+      package_15: 'link:../package_15'
+      package_5: 'link:../package_5'
+      package_9: 'link:../package_9'
       perfnow: 0.2.0
       raven-js: 3.27.2
       react: 16.12.0
@@ -4863,10 +4863,10 @@ importers:
       less: 3.12.2
       less-loader: 5.0.0
       npm-run-all: 4.1.5
-      package_10: ../package_10
-      package_15: ../package_15
-      package_29: ../package_29
-      package_9: ../package_9
+      package_10: 'link:../package_10'
+      package_15: 'link:../package_15'
+      package_29: 'link:../package_29'
+      package_9: 'link:../package_9'
       react: 16.12.0
       react-bootstrap: 0.32.4
       react-dom: 16.12.0
@@ -5036,7 +5036,7 @@ importers:
       babel-plugin-macros: 2.8.0
       es6-shim: 0.35.5
       npm-run-all: 4.1.5
-      package_15: ../package_15
+      package_15: 'link:../package_15'
       react: 16.12.0
       react-dom: 16.12.0
       typescript: 3.8.3
@@ -5094,7 +5094,7 @@ importers:
       jest: 26.4.1
       jest-styled-components: 7.0.2
       npm-run-all: 4.1.5
-      package_11: ../package_11
+      package_11: 'link:../package_11'
       react: 16.12.0
       react-dom: 16.12.0
       react-dropzone: 11.0.1
@@ -5197,9 +5197,9 @@ importers:
       jest-styled-components: 7.0.2
       js-cookie: 2.2.1
       npm-run-all: 4.1.5
-      package_11: ../package_11
-      package_34: ../package_34
-      package_7: ../package_7
+      package_11: 'link:../package_11'
+      package_34: 'link:../package_34'
+      package_7: 'link:../package_7'
       prettier: 2.0.5
       prettier-eslint: 11.0.0
       react: 16.12.0

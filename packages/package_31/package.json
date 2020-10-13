@@ -4,9 +4,9 @@
   "dependencies": {
     "@lingui/core": "2.9.1",
     "@lingui/react": "2.9.1",
-    "package_9": "../package_9",
-    "package_15": "../package_15",
-    "package_28": "../package_28",
+    "package_9": "link:../package_9",
+    "package_15": "link:../package_15",
+    "package_28": "link:../package_28",
     "alt": "0.17.9",
     "create-react-class": "15.6.3",
     "email-validator": "2.0.4",

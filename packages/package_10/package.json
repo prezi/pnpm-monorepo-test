@@ -2,7 +2,7 @@
   "name": "package_10",
   "version": "1.0.173",
   "dependencies": {
-    "package_15": "../package_15",
+    "package_15": "link:../package_15",
     "control-statements": "1.0.3",
     "hex-rgb": "4.1.0",
     "js-cookie": "2.2.1",
